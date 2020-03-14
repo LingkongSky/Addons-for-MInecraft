@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "by lingkong",
+        "name": "a swords r",
+         "uuid": "9363c61f-a5da-4b7f-7961-ffda3983756e",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "the item name is swords",
+            "type": "resources",
+        "uuid": "9253c61f-a5da-4b7f-7961-ffda3989463e",
+            "version": [0, 0, 1]
+        }
+    ]
+}
