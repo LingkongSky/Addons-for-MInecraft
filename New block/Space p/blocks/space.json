@@ -1,0 +1,15 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "acr:space",
+      "is_experimental": false,
+       "register_to_creative_menu":true
+},
+    "components": {
+           "minecraft:destroy_time":{
+                     "value":999999
+                         }
+       }
+  }
+}
