@@ -1,0 +1,13 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "acr:swords",
+			"category": "Items"
+		},
+		"components": {
+			"minecraft:icon": "swords",
+			"minecraft:render_offsets": "swords"
+		}
+	}
+}
