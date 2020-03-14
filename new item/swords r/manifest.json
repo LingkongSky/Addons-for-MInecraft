@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "by ACR",
+        "name": "space p",
+        "uuid": "9283c61f-a9da-4b7f-6961-ffda3976781e",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "the item name is swords",
+            "type": "data",
+            "uuid": "0574c61f-a5da-4b7f-3651-ffda2939761f",
+            "version": [0, 0, 1]
+        }
+    ]
+}
