@@ -1,0 +1,60 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "acr:goddess",
+"runtime_identifier": "acr:goddess",
+			"is_spawnable": true,
+			"is_summonable": true,
+			"is_experimental": false
+		},
+		"components": {
+      "minecraft:damage_sensor": [
+        {
+          "cause": "all",
+          "deals_damage": false
+        }
+      ],     
+   "minecraft:nameable": {
+    "alwaysShow": true,
+        "allowNameTagRenaming": true
+    },
+      "minecraft:collision_box": {
+        "width": 0.6,
+        "height": 1.8
+      },
+      "minecraft:can_climb": {
+      },
+     "minecraft:annotation.open_door": {
+      },
+      "minecraft:movement": {
+        "value": 0.2
+      },
+    "minecraft:physics": {
+      },
+      "minecraft:movement.basic": {
+      },
+      "minecraft:jump.static": {
+      },
+     "minecraft:behavior.float":{
+     },
+      "minecraft:behavior.random_stroll": {
+        "priority": 10,
+        "speed_multiplier": 1.0
+      },
+ "minecraft:navigation.walk": {
+        "can_path_over_water": true,
+        "avoid_water": true,
+        "avoid_damage_blocks": false
+      },
+"minecraft:behavior.run_around_like_crazy":{
+"speed_multiplier":0.1
+   }, "minecraft:behavior.random_look_around":{
+ },
+			"minecraft:fire_immune": true,
+			"minecraft:type_family": {
+		      "family": [ "test", "goddess"]
+			}
+		}
+	}
+}
