@@ -1,0 +1,19 @@
+欢迎来到凌空的github
+如果你想学习行为包或者有任何问题
+欢迎发送邮件到我的邮箱:
+2504726488@qq.com
+关于行为包，有以下页面或许能帮到你
+https://minecraft-zh.gamepedia.com/index.php?title=教程/自定义实体
+https://minecraft-zh.gamepedia.com/index.php?title=教程/自定义物品
+https://minecraft-zh.gamepedia.com/index.php?title=教程/自定义音效
+https://minecraft-zh.gamepedia.com/index.php?title=教程/自定义方块
+https://minecraft-zh.gamepedia.com/index.php?title=基岩版动画文档
+
+除自定义音效外，其余自定义页面皆为凌空所在小组创建并负责维护工作，基岩版动画文档在不久前由本小组正式汉化完毕
+
+如果有相应的行为包教程需求，请发送您的疑问到邮箱，我们会尽力解答。并在有需要时专门于Wiki建立对应页面的教程
+
+合作事宜也欢迎发送您的邮件到邮箱
+
+——Sky_凌空 2020.4.3 22:07:12
+
